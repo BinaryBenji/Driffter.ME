@@ -1,6 +1,6 @@
 # Driffter.ME
 
-<h2> Winner of Hackaton HART - 2nd edition ! </h2>
+<h2> Winner of Hackathon HART - 2nd edition ! </h2>
 
 Links :
 
