@@ -10,8 +10,5 @@ Links :
 <li> facebook : https://fr-fr.facebook.com/events/1164280766915652/ </li>
 
 
-      
-
-<img src="https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/16904630_1912891085613711_7599173445642420482_o.jpg?oh=bfb59bbe9eaa54d9cbb91332ea081236&oe=59433AD0"/>
-
+    
 
